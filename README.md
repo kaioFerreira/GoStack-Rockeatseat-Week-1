@@ -1,2 +1,3 @@
-# GoStack-Semana-1
-Projetos, Primeira Semana GoStack
+# Aquecendo os motores
+
+Entendendo os primeiros conceitos sobre NodeJS, ReactJS, React Native.
