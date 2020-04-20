@@ -9,6 +9,12 @@ Aprendemos sobre:
 * Metodos HTTP
 * Middlewres
 
+## RactJS
+Aprendemos sobre:
 
-
+* Babel e Webpack
+* Componentização
+* Propriedades
+* Estado 
+* Imutabilidade
 
