@@ -18,3 +18,9 @@ Aprendemos sobre:
 * Estado 
 * Imutabilidade
 
+## React Native
+Aprendemos sobre: 
+
+* Arquitetura React Native
+* Configuração SDK
+* Estrutura e Styles
