@@ -24,3 +24,10 @@ Aprendemos sobre:
 * Arquitetura React Native
 * Configuração SDK
 * Estrutura e Styles
+
+## TypeScript
+Aprendemos sobre: 
+
+* Configuração Projeto
+* Tipagem
+* Interfaces
